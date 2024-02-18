@@ -1,0 +1,11 @@
+{
+  "name": "hiive",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "jest"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
